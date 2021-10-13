@@ -20,16 +20,16 @@ Supports Arabic, Persian and Urdu characters, Vowel Marks (Tashkeel or Harakat),
 </span>
 
 ## Layout
-![ar-us-kb-layout](https://github.com/adamlahbib/ar-us-kb/blob/main/Images/AR-US-KB.jpg?raw=true)
+![ar-us-kb-layout](https://github.com/adamlahbib/ar-us-kb/blob/main/Images/_AR-US-KB.jpg?raw=true)
 
 ## Shift pressed
-![ar-us-kb-layout-shft](https://github.com/adamlahbib/ar-us-kb/blob/main/Images/AR-US-KBShft.jpg?raw=true)
+![ar-us-kb-layout-shft](https://github.com/adamlahbib/ar-us-kb/blob/main/Images/_AR-US-KBShft.jpg?raw=true)
 
 ## AltGr pressed
-![ar-us-kb-layout-altgr](https://github.com/adamlahbib/ar-us-kb/blob/main/Images/AR-US-KBAltGr.jpg?raw=true)
+![ar-us-kb-layout-altgr](https://github.com/adamlahbib/ar-us-kb/blob/main/Images/_AR-US-KBAltGr.jpg?raw=true)
 
 ## Shift+AltGr pressed
-![ar-us-kb-layout-shftaltgr](https://github.com/adamlahbib/ar-us-kb/blob/main/Images/AR-US-KBShftAltGr.jpg?raw=true)
+![ar-us-kb-layout-shftaltgr](https://github.com/adamlahbib/ar-us-kb/blob/main/Images/_AR-US-KBShftAltGr.jpg?raw=true)
 
 # Installation (Windows)
 Run setup.exe
