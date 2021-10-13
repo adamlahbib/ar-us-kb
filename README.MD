@@ -18,6 +18,7 @@ Supports Arabic, Persian and Urdu characters, Vowel Marks (Tashkeel or Harakat),
 ان لوگوں کے لیے تجویز کردہ جن کے پاس صرف انگریزی کی بورڈ ہے اور عربی میں کثرت سے ٹائپ کرنے کی ضرورت ہے۔ ہر حرف کو بغیر کسی وقت کے حفظ کرنا ایک بہت ہی ہموار اور آسان تجربہ ہوگا۔ عربی ، فارسی اور اردو حروف ، حروف کی نشانیاں (تشریحات یا حرکات) ، علامتیں اور مختلف نمبر سسٹم کی حمایت کرتا ہے۔</span>
 
 </span>
+
 ## Layout
 ![ar-us-kb-layout](https://github.com/adamlahbib/ar-us-kb/blob/main/Images/AR-US-KB.jpg?raw=true)
 
