@@ -1,7 +1,7 @@
 # Persian-Arabic Script Arranged Like English US QWERTY Layout.
 Recommended for those who have English only keyboard and need to write in Arabic frequently. It will be a smooth experience and so easy to memorize every character in no time.
 Supports Arabic, Persian and Urdu characters, Vowel Marks (Tashkeel or Harakat), Symbols and different digit systems.
-
+ 
 <span dir="rtl" align="right">
 
 الحروف العربية والفارسية مرتبة مثل تنسيق QWERTY الأمريكي
