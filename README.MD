@@ -33,3 +33,6 @@ When it is done, you will have it named as Arabic (Saudi Arabia) in the language
 # Uninstallation (Windows)
 Simply go to Control Panel / Programs
 Uninstall AR-US-KB
+
+# Feedbacks and Suggestions
+Use Issues and Discussion Tabs.
